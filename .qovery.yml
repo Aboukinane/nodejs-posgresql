@@ -4,6 +4,7 @@ application:
   project: "Quotes"
   organization: "QoveryCommunity"
   port: "3000"
+  ram : "1GB"
 databases:
 - type: "POSTGRESQL"
   name: "quotes"
